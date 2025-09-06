@@ -27,9 +27,9 @@ Mi meta es especializarme en el área de **finanzas cuantitativas**, aplicando m
 
 ---
 
-## 📫 Cómo contactarme
-- [LinkedIn](#) *(https://www.linkedin.com/in/joaquin-terrazas-meza-364619286/)*  
-- [Correo](#) *(20222518@aloe.ulima.edu.pe)*  
+## 📫 Contacto
+- **LinkedIn:** [joaquin-terrazas-meza-364619286](https://www.linkedin.com/in/joaquin-terrazas-meza-364619286/)  
+- **Correo:** [20222518@aloe.ulima.edu.pe](mailto:20222518@aloe.ulima.edu.pe)
 
 
 ---
